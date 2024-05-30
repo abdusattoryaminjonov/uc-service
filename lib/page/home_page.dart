@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
   },
   ),
   )
-  ..loadRequest(Uri.parse('https://www.midasbuy.com/unipin/my/buy/pubgm'));
+  ..loadRequest(Uri.parse('https://www.midasbuy.com/midasbuy/uz/buy/pubgm'));
 
   @override
   Widget build(BuildContext context) {
